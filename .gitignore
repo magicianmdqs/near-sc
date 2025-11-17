@@ -1,0 +1,8 @@
+/target
+/.github
+/.idea
+/frontend/.idea
+/frontend/node_modules
+./tests
+./.gitignore
+
